@@ -1,7 +1,7 @@
 # Simon Says Game
 Overview
 
--The Simon Says Game is a memory-based game implemented in HTML, CSS, and JavaScript. The game presents a sequence of colored button flashes, and the player must replicate the sequence by clicking on the buttons in the correct order. As the game progresses, the sequence becomes longer and more challenging. If the player makes a mistake, the game ends, displaying the final score.
+The Simon Says Game is a memory-based game implemented in HTML, CSS, and JavaScript. The game presents a sequence of colored button flashes, and the player must replicate the sequence by clicking on the buttons in the correct order. As the game progresses, the sequence becomes longer and more challenging. If the player makes a mistake, the game ends, displaying the final score.
 ---
 Features
 
